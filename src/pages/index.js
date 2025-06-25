@@ -434,7 +434,7 @@ const Portfolio = () => {
               </div>
               <div className="flex space-x-5 mt-6">
                 <a
-                  href="https://www.linkedin.com/in/usaid-sayed-481b892b5/"
+                  href="https://www.linkedin.com/in/hamza-ansari-679a7a2ab/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-transform transform hover:scale-110"
@@ -442,7 +442,7 @@ const Portfolio = () => {
                   <FaLinkedin size={30} />
                 </a>
                 <a
-                  href="https://github.com/usaidgithub"
+                  href="https://github.com/hamzas07"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-800 dark:text-white hover:text-gray-600 transition-transform transform hover:scale-110"
